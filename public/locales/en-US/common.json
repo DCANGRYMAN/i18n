@@ -1,0 +1,21 @@
+{
+  "home": {
+    "title": "The Soul of Jazz",
+    "description": "Jazz is freedom, rhythm, and improvisation."
+  },
+  "artists": {
+    "title": "Great Jazz Artists",
+    "miles": "Miles Davis",
+    "ella": "Ella Fitzgerald",
+    "coltrane": "John Coltrane"
+  },
+  "about": {
+    "title": "About This Project",
+    "content": "This site celebrates the beauty of Jazz through history and passion."
+  },
+  "menu": {
+    "home": "Home",
+    "artists": "Artists",
+    "about": "About"
+  }
+}

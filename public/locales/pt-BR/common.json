@@ -1,0 +1,21 @@
+{
+  "home": {
+    "title": "A Alma do Jazz",
+    "description": "Jazz é liberdade, ritmo e improvisação."
+  },
+  "artists": {
+    "title": "Grandes Artistas do Jazz",
+    "miles": "Miles Davis",
+    "ella": "Ella Fitzgerald",
+    "coltrane": "John Coltrane"
+  },
+  "about": {
+    "title": "Sobre Este Projeto",
+    "content": "Este site celebra a beleza do Jazz através da história e da paixão."
+  },
+  "menu": {
+    "home": "Início",
+    "artists": "Artistas",
+    "about": "Sobre"
+  }
+}

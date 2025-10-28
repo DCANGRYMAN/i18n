@@ -1,0 +1,7 @@
+{
+  "menu": { "home": "Home" },
+  "home": {
+    "title": "Welcome to Jazz Translator",
+    "description": "Translate jazz rhythms into multiple languages."
+  }
+}

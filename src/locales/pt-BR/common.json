@@ -1,0 +1,7 @@
+{
+  "menu": { "home": "Início" },
+  "home": {
+    "title": "Bem-vindo ao Jazz Translator",
+    "description": "Traduza o ritmo do jazz em diferentes idiomas."
+  }
+}
